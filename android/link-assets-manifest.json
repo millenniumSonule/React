@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/acme.ttf",
+      "sha1": "8697187664d6dd8d3d058a590da32c7e19158413"
+    },
+    {
+      "path": "assets/fonts/cabin.ttf",
+      "sha1": "88653633af9170e8625e72bc1d53ef3da29b741c"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "4b8fde539777adfebd843272647690c65ade553f"
+    },
+    {
+      "path": "assets/fonts/poppins.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    }
+  ]
+}

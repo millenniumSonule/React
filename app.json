@@ -1,0 +1,11 @@
+{
+  "name": "TEXTit",
+  "displayName": "TEXTit",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "6532c4c6-ec11-486f-a2b5-53b1cdbc9c54"
+      }
+    }
+  }
+}
