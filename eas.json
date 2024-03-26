@@ -10,14 +10,21 @@
     "preview": {
       "distribution": "internal"
     },
+    "production": {"android": {
+      "image": "latest"
+    },
+    "ios": {
+      "image": "latest"
+    }}
+  },
+  "submit": {
     "production": {
-      "distribution": "internal",
-      "github": {
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
         "image": "latest"
       }
     }
-  },
-  "submit": {
-    "production": {}
   }
 }
