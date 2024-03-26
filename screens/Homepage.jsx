@@ -88,7 +88,7 @@ const Homepage = () => {
             <View style={{ flexDirection: 'row' }}>
               <Image
                 source={{ uri: item.profilePicUrl }}
-                style={{ width: 45, height: 45, borderRadius: 100, marginRight: 15 }}
+                style={{ width: 55, height: 55, borderRadius: 100, marginRight: 15 }}
               />
               <View style={{ flexDirection: 'column' }}>
                 <Text style={{ color: 'black', fontSize: 20, fontFamily:'cabin' }}>{item.name}</Text>
