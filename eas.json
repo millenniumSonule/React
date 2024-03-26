@@ -17,7 +17,5 @@
   "submit": {
     "production": {}
   },
-  "github": {
-    "image": "latest"
-  }
+  "image": "latest"
 }
