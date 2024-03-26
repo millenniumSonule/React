@@ -11,13 +11,13 @@
       "distribution": "internal"
     },
     "production": {
-      "distribution": "internal",
-      "github": {
-        "image": "latest"
-      }
+      "distribution": "internal"
     }
   },
   "submit": {
     "production": {}
+  },
+  "github": {
+    "image": "latest"
   }
 }
